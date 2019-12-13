@@ -6,14 +6,14 @@ In this repo you'll find
 
     .
     ├── README.md
-    |       └─ # This doc
+    |       └─ This doc
     ├── PhenotypeDefinitionsAndHelpers.py
-    |       └─ # Define comorbidities and medications of interest.
+    |       └─ Define comorbidities and medications of interest.
     ├── PrepareData.py
-    |       └─ # Load data, define columns of interest, perform a train/validation/test split.
+    |       └─ Load data, define columns of interest, perform a train/validation/test split.
     ├── ClusterZipCodes.py, kmedioids.py
-    |       └─ # Draw Kaplan-Meier curves, compute pairwise distances and cluster zip codes
+    |       └─ Draw Kaplan-Meier curves, compute pairwise distances and cluster zip codes
     ├── HyperparameterSearch.py
-    |       └─ # Run the hyperparameter search; write performance metrics to a .csv.
+    |       └─ Run the hyperparameter search; write performance metrics to a .csv.
     └── Analysis
-            └─ # Run the full pipelin
+            └─ Run the full pipeline!
