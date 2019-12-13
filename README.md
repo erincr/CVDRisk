@@ -11,9 +11,9 @@ In this repo you'll find
     |       └─ Define comorbidities and medications of interest.
     ├── PrepareData.py
     |       └─ Load data, define columns of interest, perform a train/validation/test split.
-    ├── ClusterZipCodes.py, kmedioids.py
+    ├── ClusterZipCodes.py, KMedioids.py
     |       └─ Draw Kaplan-Meier curves, compute pairwise distances and cluster zip codes
     ├── HyperparameterSearch.py
     |       └─ Run the hyperparameter search; write performance metrics to a .csv.
-    └── Analysis
-            └─ Run the full pipeline!
+    └── CVDRisk
+            └─ Run the full pipeline, and visualize results.
